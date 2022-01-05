@@ -2,7 +2,7 @@
 ### Hi there 👋, Garcia Milord
 #### Software Developer
 <!-- ![Development](https://raw.githubusercontent.com/garciamilord/Data-Compression-SVD/main/modelpic.jpg) -->
-<img style="border-radius: 0px; margin: 0 0 5px 35px;" alt="GIF" width="480px" height="540px" src="https://raw.githubusercontent.com/garciamilord/Data-Compression-SVD/main/modelpic.jpg" />
+<img style="border-radius: 0px; margin: 0 0 5px 35px;" width="480px" height="540px" src="https://raw.githubusercontent.com/garciamilord/Data-Compression-SVD/main/modelpic.jpg" />
 <!--<p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
