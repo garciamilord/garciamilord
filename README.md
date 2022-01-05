@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Garcia, and I recently graduated from university in Miami, Florida. I appreciate studying new languages, technologies, and machine learning algorithms.
 <!--
 **garciamilord/garciamilord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
