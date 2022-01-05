@@ -12,6 +12,8 @@
 I'm Garcia, and I recently graduated from university in Miami, Florida. I appreciate studying new languages, technologies, and machine learning algorithms.
 - 🔭 I’m currently working on Building my profile 
 - 🌱 I’m currently learning Machine Learning 
+- 👯 I’m looking to collaborate on Hackaton
+- ⚡ Fun fact: Am foodie
 
 # 💻 **Skill summary, Languages, and Tools:** 🛠️
 
@@ -85,11 +87,12 @@ I'm Garcia, and I recently graduated from university in Miami, Florida. I apprec
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garciamilord)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=garciamilord&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=garciamilord)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=garciamilord&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=garciamilord)  
+
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=garciamilord)  
+ -->
 
 
 <!--
