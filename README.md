@@ -4,7 +4,8 @@
 <!-- ![Development](https://raw.githubusercontent.com/garciamilord/Data-Compression-SVD/main/modelpic.jpg) -->
 <img style="border-radius: 0px; margin: 0 0 5px 35px;" width="360px" height="420px" src="https://raw.githubusercontent.com/garciamilord/garciamilord/main/modelpic.jpg" />
 
-I'm Garcia, and I recently graduated from university in Miami, Florida. I appreciate studying new languages, technologies, and machine learning algorithms.
+I'm Garcia, and I recently graduated from Florida International University in Miami, Florida. 
+I appreciate studying new languages, technologies, and machine learning algorithms.
 - 🔭 I’m currently working on Building my profile 
 - 🌱 I’m currently learning Machine Learning 
 - 👯 I’m looking to collaborate on Hackaton
