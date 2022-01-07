@@ -2,7 +2,7 @@
 ### Hi there 👋, Garcia Milord
 #### Software/Machine Learning engineer
 <!-- ![Development](https://raw.githubusercontent.com/garciamilord/Data-Compression-SVD/main/modelpic.jpg) -->
-<img style="border-radius: 0px; margin: 0 0 5px 35px;" width="360px" height="440px" src="https://raw.githubusercontent.com/garciamilord/garciamilord/main/modelpic.jpg" />
+<img style="border-radius: 0px; margin: 0 0 5px 35px;" width="380px" height="400px" src="https://raw.githubusercontent.com/garciamilord/garciamilord/main/modelpic.jpg" />
 
 I'm Garcia, and I recently graduated from Florida International University in Miami, Florida. 
 I appreciate studying new languages, technologies, and machine learning algorithms.
