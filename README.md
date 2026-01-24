@@ -4,7 +4,7 @@
 
 #### Software Engineer
 
-I'm a **Software Engineer** with a passion for building robust, cloud-based solutions. Currently at Oracle, I work on scalable financial integrations, where my goal is to simplify complex workflows through clean, reliable engineering. My journey has given me solid experience in ERP integrations, API development, and creating resilient systems.
+I'm a **Software Engineer** with a passion for building robust, cloud-based solutions. Ex-Oracle, I work on scalable financial integrations, where my goal is to simplify complex workflows through clean, reliable engineering. My journey has given me solid experience in ERP integrations, API development, and creating resilient systems.
 
 ---
 
