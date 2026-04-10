@@ -35,14 +35,19 @@ Here are some of the technologies I use and enjoy.
 ---
 
 ### My GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=garciamilord&show_icons=true&theme=dark&rank_icon=github" alt="Reynaldo's GitHub Stats" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garciamilord&layout=compact&langs_count=6&theme=dark" alt="Most Used Languages" width="320px"/>
-</div>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/?username=garciamilord&theme=dark" alt="GitHub Streak Stats" width="730px"/>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Pranesh-2005/github-readme-stats">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=garciamilord&theme=dark&show_icons=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Pranesh-2005/convoychat">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=garciamilord&layout=compact&langs_count=8&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 **Connect with me!** You can find me on [LinkedIn](https://www.linkedin.com/in/garcia-milord/).
