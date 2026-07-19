@@ -2,19 +2,24 @@
 
 ### Hello there, I'm Garcia Milord 👋
 
-#### Software Engineer
+#### Full-Stack Software Engineer
 
-I'm a **Software Engineer** with a passion for building robust, cloud-based solutions. Ex-Oracle, I work on scalable financial integrations, where my goal is to simplify complex workflows through clean, reliable engineering. My journey has given me solid experience in ERP integrations, API development, and creating resilient systems.
+I'm a **Full-Stack Software Engineer** with experience building scalable applications, APIs, and business integrations.
+I currently work with **TypeScript, Next.js, React, Node.js, and Express**, supported by a strong back-end background in **Java and Python**.
+
+Previously at Oracle, I helped develop and maintain financial and ERP integrations, automated workflows, and reliable back-end services.
+I enjoy simplifying complex business requirements through clean, maintainable engineering.
 
 ---
 
-### 💡 My Drive
+### 💡 What Drives Me
 
-I'm driven by a curiosity for how systems work and a passion for creating impactful solutions. I'm especially interested in these areas:
+I'm curious about how systems work and enjoy building practical solutions that solve real business problems. My primary interests include:
 
-* **Cloud & DevOps:** Building resilient systems using cloud-native services and modern DevOps principles.
-* **FinTech:** Exploring the world of financial technology and high-scale infrastructure.
-* **Problem-Solving:** Designing APIs and integrations that directly address real-world business challenges.
+* **Full-Stack Development:** Building responsive user experiences and reliable back-end services.
+* **API and Integration Development:** Connecting applications, platforms, and business systems.
+* **Cloud and DevOps:** Improving deployments, automation, scalability, and system reliability.
+* **AI-Assisted Engineering:** Using modern AI tools to improve development workflows and productivity.
 
 I believe in **lifelong learning** and am always exploring new frameworks and technologies to build better, more meaningful solutions.
 
@@ -22,15 +27,14 @@ I believe in **lifelong learning** and am always exploring new frameworks and te
 
 ### 🛠️ My Toolbox
 
-Here are some of the technologies I use and enjoy.
-
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | Python, Java, TypeScript, JavaScript, Go |
-| **Frameworks** | React, Angular, Flask, Spring, Express, Node |
-| **ML/Data** | TensorFlow, NumPy, Pandas, PostgreSQL, MongoDB |
-| **Cloud & DevOps**| Oracle Cloud, AWS, Docker, Kubernetes |
-| **Tools** | Git, Postman, VS Code, Codex |
+| **Languages** | TypeScript, Java, Python, JavaScript, SQL, Go |
+| **Frontend** | Next.js, React, Angular, HTML, CSS |
+| **Backend** | Node.js, Express, Spring Boot, Flask, FastAPI |
+| **Databases** | PostgreSQL, Oracle Database, MySQL, MongoDB, Microsoft SQL Server |
+| **Cloud & DevOps**| AWS, Oracle Cloud Infrastructure, Docker, Kubernetes, GitHub Actions, Jenkins |
+| **Tools** | Git, GitHub, Postman, Linux, VS Code, Codex |
 
 ---
 
@@ -50,4 +54,6 @@ Here are some of the technologies I use and enjoy.
   </tr>
 </table>
 
-**Connect with me!** You can find me on [LinkedIn](https://www.linkedin.com/in/garcia-milord/).
+### 🤝 Connect With Me
+You can find me on [LinkedIn](https://www.linkedin.com/in/garcia-milord/).
+
