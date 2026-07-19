@@ -26,11 +26,11 @@ Here are some of the technologies I use and enjoy.
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | Python, Java, JavaScript, Go |
-| **Frameworks** | React, Angular, Flask, Spring, .NET |
-| **ML/Data** | TensorFlow, Keras, Scikit-learn, NumPy, Pandas, PostgreSQL |
+| **Languages** | Python, Java, TypeScript, JavaScript, Go |
+| **Frameworks** | React, Angular, Flask, Spring, Express, Node |
+| **ML/Data** | TensorFlow, NumPy, Pandas, PostgreSQL, MongoDB |
 | **Cloud & DevOps**| Oracle Cloud, AWS, Docker, Kubernetes |
-| **Tools** | Git, Postman, VS Code |
+| **Tools** | Git, Postman, VS Code, Codex |
 
 ---
 
