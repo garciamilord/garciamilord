@@ -39,16 +39,31 @@ I believe in **lifelong learning** and am always exploring new frameworks and te
 ---
 
 ### My GitHub Stats
+
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Pranesh-2005/github-readme-stats">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=garciamilord&theme=dark&show_icons=true" />
+      <a href="https://github.com/garciamilord">
+        <img
+          src="./profile/stats.svg"
+          alt="Garcia's GitHub stats"
+        />
       </a>
     </td>
     <td>
-      <a href="https://github.com/Pranesh-2005/convoychat">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=garciamilord&layout=compact&langs_count=8&theme=dark" />
+      <a href="https://github.com/garciamilord">
+        <img
+          src="./profile/streak.svg"
+          alt="Garcia's GitHub contribution streak"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/garciamilord">
+        <img
+          src="./profile/top-langs.svg"
+          alt="Garcia's most used programming languages"
+        />
       </a>
     </td>
   </tr>
